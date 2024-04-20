@@ -3,17 +3,17 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "result.ico",
+      "src": "/Users/ra7eem./Desktop/Projects/PortF/public/images/result.png",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/png"
     },
     {
-      "src": "result.png",
+      "src": "/Users/ra7eem./Desktop/Projects/PortF/public/images/result.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "result.png",
+      "src": "/Users/ra7eem./Desktop/Projects/PortF/public/images/result.png",
       "type": "image/png",
       "sizes": "512x512"
     }
