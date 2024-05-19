@@ -1,14 +1,18 @@
-//ToDo Create Contact Form class
-// implement fieldvalidation
-
-import React from "react";
+import React, {Component} from "react";
 
 export default class ContactForm extends Component {
     state = {}
 
     render() {
         return (
-            <div></div>
+            <form>
+                <label>
+                    Name:
+                    <input type="text" name="name"/>
+                </label>
+                <input type="submit" value="Absenden"/>
+            </form>
+
         );
     }
 }
